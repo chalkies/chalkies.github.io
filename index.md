@@ -145,4 +145,9 @@ The moderators are:
 
 The server host is [riseup](https://riseup.net/). Their computers send and receive mail using an old version of [sympa](https://sympa-community.github.io/). They are volunteer run, and supported by [donations](https://riseup.net/en/donate).
 
-This website's source code is [on github](https://github.com/chalkies/chalkies.github.io) and you can view the [contributers list](https://github.com/chalkies/chalkies.github.io/graphs/contributors). Anybody can [make/propose edits](https://github.com/chalkies/chalkies.github.io/edit/main/index.md)! You don't need to understand git or html, only [markdown](https://www.markdownguide.org/basic-syntax) and a [github account](https://github.com/login).
+This website's source code is [on github](https://github.com/chalkies/chalkies.github.io) and you can view the [contributers list](https://github.com/chalkies/chalkies.github.io/graphs/contributors). To edit the website, follow these instructions:
+* create or log into a [github account](https://github.com/login)
+* If it's your first time, fork the repository by going [here](https://github.com/chalkies/chalkies.github.io/edit/main/index.md) and click "fork this respository"
+* Make your [edits here](https://github.com/chalkies/chalkies.github.io/edit/main/index.md) using [markdown syntax](https://www.markdownguide.org/basic-syntax) and click "commit changes"
+* Write a summary of the changes, then click "propose changes", then "create pull request"
+* Write an appropriate title, then click "create pull request" again
