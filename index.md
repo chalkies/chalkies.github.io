@@ -99,7 +99,10 @@ All below info must be included in your actual email, not just a link to an exte
 
 
 
-If you're a person looking for a house, provide your budget in the subject line and what you're are looking for in terms of location (examples: east bay only, within 1 mile of BART, ground floor rooms only, etc). 
+If you're a person looking for a house:
+1. provide your budget in the subject line
+2. what you're are looking for in terms of location (examples: east bay only, within 1 mile of BART, ground floor rooms only, etc).
+3. what you are looking for in your next home (examples: shared food plan, weekly meetings with housemates, nonviolent communication protocols, QT only housing, BIPOC only housing, a bedroom door, a backyard to garden in)
 
 # Events
 
