@@ -83,16 +83,23 @@ Probably, unless you got a rejection notice. When in doubt, check the list archi
 # Rooms
 
 If you're a house looking for people:
-* the **subject line must include the full cost** of the room (rent, utilities, and any other mandatory costs), or a range for multiple rooms, like "$3-500 + $50 utilities"
-* you must **tell us if your house is mostly white** or all white, so BIPOC applicants have the option of avoiding these houses
-* you must **not have age requirements**, and if you list your own ages you must **say you're open to all ages** (and mean it), except maybe if you really need to exclude <18
-* you must say **how wheelchair accessible** the house and room are
-* the house must be communal, community-oriented, intentional or cooperative in some way, ie you want the person and not just their money
-* you should tell us the move-in dates (and move-out, if subletting)
-* you should tell us what pets you have (for allergies) and what pets you can allow
-* you should include all this info in your actual email, not just link to an external/craigslist post
+All below info must be included in your actual email, not just a link to an external/craigslist post
+1. the **subject line must include the full cost** of the room (rent, utilities, and any other mandatory costs), or a range for multiple rooms, like "$300-500 + $50 utilities"
+2. you must **tell us if your house is mostly white** or all white, so BIPOC applicants have the option of avoiding these houses
+3. you must **not have age requirements**, and if you list your own ages you must **say you're open to all ages** (and mean it).
+          > We find that age requirements are usually a proxy for other desired qualities, and that it's better to spell out those other qualities - "looking for someone responsible and chill," "looking for someone who wants to party and doesn't mind a little mess" - rather than implying them by using age-based assumptions. If you had an age requirement, please reconsider your reasons, or take it somewhere else which allows age discrimination.
+4. COVID POLICIES - You must answer these questions:
+           a. Do all members of your household wear masks indoors 100% of the time, including grocery stores, cafes, concerts, on transit/planes, etc?
+           b. Does your house maintain indoor air filters for COVID and other health risks?
+           c. What policies does your household have for shared spaces if someone tests positive for COVID?
+5. you must say **how wheelchair accessible** the house and room are, and include estimates on how many stairs there are to access parts of the room/home. 
+6. the house must be communal, community-oriented, intentional or cooperative in some way, ie you want the person and not just their money
+7. you must tell us the move-in dates (and move-out, if subletting)
+8. you must tell us what pets you have (for allergies) and what pets you can allow
 
-If you're a person looking for a house, we are way more chill about these things, because that's hard enough already.
+
+
+If you're a person looking for a house, provide your budget in the subject line and what you're are looking for in terms of location (examples: east bay only, within 1 mile of BART, ground floor rooms only, etc). 
 
 # Events
 
