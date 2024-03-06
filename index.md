@@ -89,9 +89,9 @@ All below info must be included in your actual email, not just a link to an exte
 3. you must **not have age requirements**, and if you list your own ages you must **say you're open to all ages** (and mean it).
           > We find that age requirements are usually a proxy for other desired qualities, and that it's better to spell out those other qualities - "looking for someone responsible and chill," "looking for someone who wants to party and doesn't mind a little mess" - rather than implying them by using age-based assumptions. If you had an age requirement, please reconsider your reasons, or take it somewhere else which allows age discrimination.
 4. COVID POLICIES - You must answer these questions:
-    a. Do all members of your household wear masks indoors 100% of the time, including grocery stores, cafes, concerts, on transit/planes, etc?
-    b. Does your house maintain indoor air filters for COVID and other health risks?
-    c. What policies does your household have for shared spaces if someone tests positive for COVID?
+    * Do all members of your household wear masks indoors 100% of the time, including grocery stores, cafes, concerts, on transit/planes, etc?
+    * Does your house maintain indoor air filters for COVID and other health risks?
+    * What policies does your household have for shared spaces if someone tests positive for COVID?
 5. you must say **how wheelchair accessible** the house and room are, and include estimates on how many stairs there are to access parts of the room/home. 
 6. the house must be communal, community-oriented, intentional or cooperative in some way, ie you want the person and not just their money
 7. you must tell us the move-in dates (and move-out, if subletting)
