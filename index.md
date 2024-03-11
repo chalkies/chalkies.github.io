@@ -114,7 +114,8 @@ All event posts must specify:
 
 # Business Advertising
 
-Some Chalkies own businesses. Chalkboard allows business advertising posts that follow these guidelines: 
+Some Chalkies own businesses and other Chalkies want to support them. 
+Chalkboard allows business advertising posts that follow these guidelines: 
      1. The rate of the service must be in the subject line and the body of the email. If you don't have a rate, think about what your rate usually is or please share the cost of a common service (like the price per haircut, or the price for an entree at your new restaurant, etc). Have questions? Please contact us. 
      2. Businesses do not need to offer NOTAFLOF or a sliding scale, but please consider if you can offer a sliding scale or discount to Chalkies. List how they can get the discount. 
      3. Only one ad per six months. Consider adding information on how to follow your business some other way.
@@ -130,7 +131,7 @@ Some Chalkies own businesses. Chalkboard allows business advertising posts that 
 
 If you're asking for money in exchange for something, at least one of these must be true:
 * You're not profiting, it only covers cost and expenses. we presume this is true for housing posts from non-landlords, or people selling things they previously bought.
-* For alternatives such as work trade, "No one turned away for lack of funds" [notaflof](https://en.wiktionary.org/wiki/NOTAFLOF), sliding scale*, suggested donation, [timebank hours](https://timebank.sfbace.org/), or trade/barter
+* You offer payment alternatives such as work trade, "No one turned away for lack of funds" [notaflof](https://en.wiktionary.org/wiki/NOTAFLOF), sliding scale*, suggested donation, [timebank hours](https://timebank.sfbace.org/), or trade/barter
 * If you list "sliding scale," you must include what that scale is. 
 
 If you're offering money in exchange for something (like a job opportunity):
