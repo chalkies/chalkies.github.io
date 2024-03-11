@@ -92,36 +92,50 @@ All below info must be included in your actual email, not just a link to an exte
     * Do all members of your household wear masks indoors 100% of the time, including grocery stores, cafes, concerts, on transit/planes, etc?
     * Does your house maintain indoor air filters for COVID and other health risks?
     * What policies does your household have for shared spaces if someone tests positive for COVID?
-5. you must say **how wheelchair accessible** the house and room are, and include estimates on how many stairs there are to access parts of the room/home. 
+5. you must share info about physical accessibility: including how many stairs to access the room and different parts of the house; if the elevators, bathrooms, doorways, and hallways can accommodate a wheelchair users of 30 inches wide and 48 inches long. 
 6. the house must be communal, community-oriented, intentional or cooperative in some way, ie you want the person and not just their money
 7. you must tell us the move-in dates (and move-out, if subletting)
 8. you must tell us what pets you have (for allergies) and what pets you can allow
 
-
-
 If you're a person looking for a house:
-1. provide your budget in the subject line
-2. what you're are looking for in terms of location (examples: east bay only, within 1 mile of BART, ground floor rooms only, etc).
-3. what you are looking for in your next home (examples: shared food plan, weekly meetings with housemates, nonviolent communication protocols, QT only housing, BIPOC only housing, a bedroom door, a backyard to garden in)
+    1. provide your budget in the subject line
+    2. what you're are looking for in terms of location (examples: east bay only, within 1 mile of BART, ground floor rooms only, etc).
+    3. what you are looking for in your next home (examples: shared food plan, weekly meetings with housemates, nonviolent communication protocols, QT only housing, BIPOC only housing, a bedroom door, a backyard to garden in)
 
 # Events
 
-When you post a workshop or event, please tell us:
-* what covid safety requirements you will enforce
-* whether and how disabled people - eg blind or deaf or wheelchair users - can access it
+Please provide as much information about accessibility as possible to take the burden off people who need to ask. Try to make your events accessible to as many people as possible. We ask and encourage you to be open and available to answer questions about your event's accessibility and send pictures. The list below is not exhaustive; please email us if we are missing anything. 
 
-For events that cost money, see [the money section](#money)
+All event posts must specify: 
+* COVID protocols: Examples: Are masks or positive COVID tests required? 
+* Physical access descriptions. e.g. is it on the ground floor? How many stairs are required to access the space? Is there an ADA-accessible elevator? Are there ADA-accessible bathrooms? Do building doors and elevator doors have automatic openers? If assessing your space, consider wheelchairs that are 30' wide and 48' long. See link below. 
+* Audio and Visual accommodations: e.g. Will there be sign language interpreter? 
+* Money: For events that cost money, see [the money section](#money)
+
+# Business Advertising
+
+Some Chalkies own businesses. Chalkboard allows business advertising posts that follow these guidelines: 
+     1. The rate of the service must be in the subject line and the body of the email. If you don't have a rate, think about what your rate usually is or please share the cost of a common service (like the price per haircut, or the price for an entree at your new restaurant, etc). Have questions? Please contact us. 
+     2. Businesses do not need to offer NOTAFLOF or a sliding scale, but please consider if you can offer a sliding scale or discount to Chalkies. List how they can get the discount. 
+     3. Only one ad per six months. Consider adding information on how to follow your business some other way.
+     4. Business advertisements may not include advertisements for specific events. Please either make a business advertisement post or an event post. 
+
+     Examples: 
+         1. Subject lines: 
+             a. Does not pass: Subject Line  = "Discount Buffet"
+             b. Does pass: Subject Line = "Discount Buffet - $95" 
+             c. Better: Subject Line = "Discount Buffet - $95 or $10 for Chalkies"         
 
 # Money
 
 If you're asking for money in exchange for something, at least one of these must be true:
-* you're not profiting, it only covers cost and expenses. we presume this is true for housing posts from non-landlords, or people selling things they previously bought
-* ***OR*** you offer alternatives such as work trade, [notaflof](https://en.wiktionary.org/wiki/NOTAFLOF), suggested donation, [timebank hours](https://timebank.sfbace.org/), or trade/barter
-* ***OR*** it's your first ad in a long time. ie you have not posted any other for-profit activity recently. we've been letting people advertise their businesses maybe once every year or two, as an experiment, but if the Chalk starts to sound like Indie Craigslist, this may change
+* You're not profiting, it only covers cost and expenses. we presume this is true for housing posts from non-landlords, or people selling things they previously bought.
+* For alternatives such as work trade, "No one turned away for lack of funds" [notaflof](https://en.wiktionary.org/wiki/NOTAFLOF), sliding scale*, suggested donation, [timebank hours](https://timebank.sfbace.org/), or trade/barter
+* If you list "sliding scale," you must include what that scale is. 
 
-if you're offering money in exchange for something (like a job opportunity):
-* the **subject must include pay or pay range** when possible. obviously you don't always know what the market rate is, like when asking for advice or recommendations for a one-off job
-* the job must pay **at least $20/hr** or equivalent (such as a fair work trade, college credit, stock options, or something else creative), with very limited exceptions (ie IHSS aides since it's not under your control)
+If you're offering money in exchange for something (like a job opportunity):
+* The **subject must include pay or pay range** when possible. obviously, you don't always know what the market rate is, like when asking for advice or recommendations for a one-off job
+* The job must pay **at least $20/hr** or equivalent (such as a fair work trade, college credit, stock options, or something else creative), with very limited exceptions (ie IHSS aides since it's not under your control)
 
 Giving away free stuff is always cool. Requests for free stuff may get a little more scrutiny, but it's probably ok.
 
