@@ -98,9 +98,9 @@ All below info must be included in your actual email, not just a link to an exte
 8. you must tell us what pets you have (for allergies) and what pets you can allow
 
 If you're a person looking for a house:
-    1. provide your budget in the subject line
-    2. what you're are looking for in terms of location (examples: east bay only, within 1 mile of BART, ground floor rooms only, etc).
-    3. what you are looking for in your next home (examples: shared food plan, weekly meetings with housemates, nonviolent communication protocols, QT only housing, BIPOC only housing, a bedroom door, a backyard to garden in)
+1. provide your budget in the subject line
+2. what you're are looking for in terms of location (examples: east bay only, within 1 mile of BART, ground floor rooms only, etc).
+3. what you are looking for in your next home (examples: shared food plan, weekly meetings with housemates, nonviolent communication protocols, QT only housing, BIPOC only housing, a bedroom door, a backyard to garden in)
 
 # Events
 
@@ -116,17 +116,16 @@ All event posts must specify:
 
 Some Chalkies own businesses and other Chalkies want to support them. 
 Chalkboard allows business advertising posts that follow these guidelines: 
-     1. The rate of the service must be in the subject line and the body of the email. If you don't have a rate, think about what your rate usually is or please share the cost of a common service (like the price per haircut, or the price for an entree at your new restaurant, etc). It's okay if the rates aren't cheap, but they must be in the subject line. Have questions? Please contact us. 
-     2. Businesses do not need to offer NOTAFLOF or a sliding scale, but please consider if you can offer a sliding scale or discount to Chalkies. List how they can get the discount. 
-     3. Only one ad per six months. Consider adding information on how to follow your business some other way.
-     4. Business advertisements may not include advertisements for specific events. Please either make a business advertisement post or an event post. 
-     5. Don't use chalkboard as your business's email list. Instead, use your business advertisement post to inform Chalkies how to follow your business and join its mailing list. 
+1. The rate of the service must be in the subject line and the body of the email. If you don't have a rate, think about what your rate usually is or please share the cost of a common service (like the price per haircut, or the price for an entree at your new restaurant, etc). It's okay if the rates aren't cheap, but they must be in the subject line. Have questions? Please contact us. 
+2. Businesses do not need to offer NOTAFLOF or a sliding scale, but please consider if you can offer a sliding scale or discount to Chalkies. List how they can get the discount. 
+3. Only one ad per six months. Consider adding information on how to follow your business some other way.
+4. Business advertisements may not include advertisements for specific events. Please either make a business advertisement post or an event post. 
+5. Don't use chalkboard as your business's email list. Instead, use your business advertisement post to inform Chalkies how to follow your business and join its mailing list. 
 
-     Examples: 
-         1. Subject lines: 
-             a. Does not pass: Subject Line  = "Discount Buffet"
-             b. Does pass: Subject Line = "Discount Buffet - $95" 
-             c. Better: Subject Line = "Discount Buffet - $95 or $10 for Chalkies"         
+Examples subject lines: 
+- Does not pass: Subject Line  = "Discount Buffet"
+- Does pass: Subject Line = "Discount Buffet - $95" 
+- Better: Subject Line = "Discount Buffet - $95 or $10 for Chalkies"         
 
 # Money
 
