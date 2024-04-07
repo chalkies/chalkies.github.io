@@ -92,7 +92,7 @@ All below info must be included in your actual email, not just a link to an exte
     * Do all members of your household wear masks indoors 100% of the time, including grocery stores, cafes, concerts, on transit/planes, etc?
     * Does your house maintain indoor air filters for COVID and other health risks?
     * What policies does your household have for shared spaces if someone tests positive for COVID?
-5. you must share info about physical accessibility: including how many stairs to access the room and different parts of the house; if the elevators, bathrooms, doorways, and hallways can accommodate a wheelchair users of 30 inches wide and 48 inches long. 
+5. you must describe physical access characteristics. Please include how many stairs to access the room and different parts of the house; if there are elevators, bathrooms, doorways, and hallways, can they accommodate a standard wheelchair of 30 inches wide? Adequate space to turn a standard wheelchair is 30 inches by 48 inches. This info helps people figure out if the space might work for them, whether they have a permanent & visible mobility need (i.e. wheelchair, walker, crutches), an invisible mobility concern (i.e. chronic joint pain), or frequency but temporary mobility concern (i.e. they need to carry a bike of heavy equipment in and out of the space frequently). Don't just say "not wheelchair accessible." 
 6. the house must be communal, community-oriented, intentional or cooperative in some way, ie you want the person and not just their money
 7. you must tell us the move-in dates (and move-out, if subletting)
 8. you must tell us what pets you have (for allergies) and what pets you can allow
@@ -107,19 +107,20 @@ If you're a person looking for a house:
 Please provide as much information about accessibility as possible to take the burden off people who need to ask. Try to make your events accessible to as many people as possible. We ask and encourage you to be open and available to answer questions about your event's accessibility and send pictures. The list below is not exhaustive; please email us if we are missing anything. 
 
 All event posts must specify: 
-* COVID protocols: Examples: Are masks or positive COVID tests required? 
-* Physical access descriptions. e.g. is it on the ground floor? How many stairs are required to access the space? Is there an ADA-accessible elevator? Are there ADA-accessible bathrooms? Do building doors and elevator doors have automatic openers? If assessing your space, consider wheelchairs that are 30' wide and 48' long. See link below. 
-* Audio and Visual accommodations: e.g. Will there be sign language interpreter? 
+* COVID protocols: Please state if masks and/or negative COVID will be required. It's okay if not, just share what the plan will be.  
+* Physical access description of the event venue. Please include how many stairs to access the room and different parts of the event space; is there a ramp? if there are elevators, bathrooms, doorways, and hallways, can they accommodate a standard wheelchair of 30 inches wide? Adequate space to turn a standard wheelchair is 30 inches by 48 inches. This info helps people figure out if the space might work for them, whether they have a permanent & visible mobility need (i.e. wheelchair, walker, crutches), an invisible mobility concern (i.e. chronic joint pain), or frequency but temporary mobility concern (i.e. they need to carry a bike or heavy equipment in and out of the space upon arrival). Don't just say "not wheelchair accessible." 
+* If there will be audio or visual accommodations, please share this detail.
 * Money: For events that cost money, see [the money section](#money)
 
 # Business Advertising
 
 Some Chalkies own businesses and other Chalkies want to support them. 
 Chalkboard allows business advertising posts that follow these guidelines: 
-     1. The rate of the service must be in the subject line and the body of the email. If you don't have a rate, think about what your rate usually is or please share the cost of a common service (like the price per haircut, or the price for an entree at your new restaurant, etc). Have questions? Please contact us. 
+     1. The rate of the service must be in the subject line and the body of the email. If you don't have a rate, think about what your rate usually is or please share the cost of a common service (like the price per haircut, or the price for an entree at your new restaurant, etc). It's okay if the rates aren't cheap, but they must be in the subject line. Have questions? Please contact us. 
      2. Businesses do not need to offer NOTAFLOF or a sliding scale, but please consider if you can offer a sliding scale or discount to Chalkies. List how they can get the discount. 
      3. Only one ad per six months. Consider adding information on how to follow your business some other way.
      4. Business advertisements may not include advertisements for specific events. Please either make a business advertisement post or an event post. 
+     5. Don't use chalkboard as your business's email list. Instead, use your business advertisement post to inform Chalkies how to follow your business and join its mailing list. 
 
      Examples: 
          1. Subject lines: 
