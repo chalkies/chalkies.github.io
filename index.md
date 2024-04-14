@@ -92,7 +92,7 @@ All below info must be included in your actual email, not just a link to an exte
     * Do all members of your household wear masks indoors 100% of the time, including grocery stores, cafes, concerts, on transit/planes, etc?
     * Does your house maintain indoor air filters for COVID and other health risks?
     * What policies does your household have for shared spaces if someone tests positive for COVID?
-5. you must describe physical access characteristics. Please include how many stairs to access the room and different parts of the house; if there are elevators, bathrooms, doorways, and hallways, can they accommodate a standard wheelchair of 30 inches wide? Adequate space to turn a standard wheelchair is 30 inches by 48 inches. This info helps people figure out if the space might work for them, whether they have a permanent & visible mobility need (i.e. wheelchair, walker, crutches), an invisible mobility concern (i.e. chronic joint pain), or frequency but temporary mobility concern (i.e. they need to carry a bike of heavy equipment in and out of the space frequently). Don't just say "not wheelchair accessible." 
+5. Physical access description of accessing all parts of the home. See full details [the accessibility section](#accessibility). Note: "not wheelchair accessible" is not enough information. 
 6. the house must be communal, community-oriented, intentional or cooperative in some way, ie you want the person and not just their money
 7. you must tell us the move-in dates (and move-out, if subletting)
 8. you must tell us what pets you have (for allergies) and what pets you can allow
@@ -107,8 +107,8 @@ If you're a person looking for a house:
 Please provide as much information about accessibility as possible to take the burden off people who need to ask. Try to make your events accessible to as many people as possible. We ask and encourage you to be open and available to answer questions about your event's accessibility and send pictures. The list below is not exhaustive; please email us if we are missing anything. 
 
 All event posts must specify: 
-* COVID protocols: Please state if masks and/or negative COVID will be required. It's okay if not, just share what the plan will be.  
-* Physical access description of the event venue. Please include how many stairs to access the room and different parts of the event space; is there a ramp? if there are elevators, bathrooms, doorways, and hallways, can they accommodate a standard wheelchair of 30 inches wide? Adequate space to turn a standard wheelchair is 30 inches by 48 inches. This info helps people figure out if the space might work for them, whether they have a permanent & visible mobility need (i.e. wheelchair, walker, crutches), an invisible mobility concern (i.e. chronic joint pain), or frequency but temporary mobility concern (i.e. they need to carry a bike or heavy equipment in and out of the space upon arrival). Don't just say "not wheelchair accessible." 
+* COVID protocols: Please state if masks and/or negative COVID test will be required. It's okay if not, just share what the plan will be.  
+* Physical access description of the event venue. Describe for each venue of a multi-event posts. See full details [the accessibility section](#accessibility). Note: "not wheelchair accessible" is not enough information. 
 * If there will be audio or visual accommodations, please share this detail.
 * Money: For events that cost money, see [the money section](#money)
 
@@ -139,6 +139,22 @@ If you're offering money in exchange for something (like a job opportunity):
 * The job must pay **at least $20/hr** or equivalent (such as a fair work trade, college credit, stock options, or something else creative), with very limited exceptions (ie IHSS aides since it's not under your control)
 
 Giving away free stuff is always cool. Requests for free stuff may get a little more scrutiny, but it's probably ok.
+
+# Accessibility
+Posts for events or housing must describe physical access characteristics.
+Please include how many stairs to access the room and different parts of the house; if there are elevators, bathrooms, doorways, and hallways.  Can they accommodate a standard wheelchair of 30 inches wide? Adequate space to turn a standard wheelchair is 30 inches x 48 inches. This info helps people be informed, to figure out if the space might work for them
+
+A person can have
+- a permanent & visible mobility need (i.e. wheelchair, walker, crutches)
+- an invisible mobility concern(i.e. chronic joint pain), or
+- a temporary mobility concern (i.e. they need to carry a bike of heavy equipment in or out).
+
+Posts that only say “not wheelchair accessible” will be rejected. 
+
+We understand this might be new territory to describe.  Please check out this official resource and let us know if you have any questions :)  Many people with disabilities (PWD's) also appreciate a picture of the access route (worth a thousand words, as they say), or a helping hand at the event.
+
+Example:
+"Molly's Cafe has ground-level access with no steps.  However, there is a narrow approc. 20" Hallway and 5 steps up to the patio.  For anyquestions about access, please email me or _____.  We can lend a hand at the event, too.."
 
 # Other lists
 
