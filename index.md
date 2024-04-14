@@ -141,6 +141,7 @@ If you're offering money in exchange for something (like a job opportunity):
 Giving away free stuff is always cool. Requests for free stuff may get a little more scrutiny, but it's probably ok.
 
 # Accessibility
+
 Posts for events or housing must describe physical access characteristics.
 Please include how many stairs to access the room and different parts of the house; if there are elevators, bathrooms, doorways, and hallways.  Can they accommodate a standard wheelchair of 30 inches wide? Adequate space to turn a standard wheelchair is 30 inches x 48 inches. This info helps people be informed, to figure out if the space might work for them
 
@@ -157,11 +158,12 @@ Example:
 "Molly's Cafe has ground-level access with no steps.  However, there is a narrow approc. 20" Hallway and 5 steps up to the patio.  For anyquestions about access, please email me or _____.  We can lend a hand at the event, too.."
 
 # Thread replies
+
 Thread replies happen when someone makes a reply to someone's post and wants the reply published the list:
-    a. Replies that further the conversation raised in the original post will be posted. Replies that are totally unrelated or do not further the conversation will be rejected. 
-    b. For an original post seeking resources/service, it is okay to make a thread reply that says you are also seeking the same information. 
-    c. For an original post seeking resources/services, if you have a business offering that resource, it is okay to promote your own business as a reply. 
-    d. If you reply to a post via email, and the email is "to" the original poster and "to" or "cc" the list, the original poster will get the reply right away, even if the reply is not published to the list or is published to the list with some delay. 
+1. Replies that further the conversation raised in the original post will be posted. Replies that are totally unrelated or do not further the conversation will be rejected. 
+2. For an original post seeking resources/services, it is okay to make a thread reply that says you are also seeking the same information. 
+3. For an original post seeking resources/services, if you have a business offering that resource, it is okay to promote your own business as a reply. 
+4. If you reply to a post via email, and the email is "to" the original poster and "to" or "cc" the list, the original poster will get the reply right away, even if the reply is not published to the list or is published to the list with some delay. 
 
 # Other lists
 
