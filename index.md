@@ -88,7 +88,7 @@ All below info must be included in your actual email, not just a link to an exte
 2. you must **tell us if your house is mostly white** or all white, so BIPOC applicants have the option of avoiding these houses
 3. you must **not have age requirements**, and if you list your own ages you must **say you're open to all ages** (and mean it).
           > We find that age requirements are usually a proxy for other desired qualities, and that it's better to spell out those other qualities - "looking for someone responsible and chill," "looking for someone who wants to party and doesn't mind a little mess" - rather than implying them by using age-based assumptions. If you had an age requirement, please reconsider your reasons, or take it somewhere else which allows age discrimination.
-4. COVID POLICIES - You must answer these questions:
+4. COVID POLICIES - Please provide this information:
     * Do all members of your household wear masks indoors 100% of the time, including grocery stores, cafes, concerts, on transit/planes, etc?
     * Does your house maintain indoor air filters for COVID and other health risks?
     * What policies does your household have for shared spaces if someone tests positive for COVID?
@@ -97,10 +97,8 @@ All below info must be included in your actual email, not just a link to an exte
 7. you must tell us the move-in dates (and move-out, if subletting)
 8. you must tell us what pets you have (for allergies) and what pets you can allow
 
-If you're a person looking for a house:
-1. provide your budget in the subject line
-2. what you're are looking for in terms of location (examples: east bay only, within 1 mile of BART, ground floor rooms only, etc).
-3. what you are looking for in your next home (examples: shared food plan, weekly meetings with housemates, nonviolent communication protocols, QT only housing, BIPOC only housing, a bedroom door, a backyard to garden in)
+If you're a person looking for a house, we hope you find rad people to live with through chalkboard! There are no requirements for housing posts, but we hear that you may find something more easily if you provide some details about what you looking for. What are you looking for in your next home? What locations are you looking for? It can even be helpful to provide the range of rent you are considering, if you are feel comfortable.
+Sample descriptions: east bay only, within 1 mile of BART, ground floor rooms only, Oakland, shared food plan, weekly meetings with housemates, nonviolent communication protocols, QT-only housing, BIPOC-only housing, a bedroom door, a backyard to garden in, under <$1000, $1200 - $1500, as cheap as possible, <$1000 including utilities.
 
 # Events
 
@@ -156,14 +154,6 @@ We understand this might be new territory to describe.  Please check out this of
 
 Example:
 "Molly's Cafe has ground-level access with no steps.  However, there is a narrow approc. 20" Hallway and 5 steps up to the patio.  For anyquestions about access, please email me or _____.  We can lend a hand at the event, too.."
-
-# Thread replies
-
-Thread replies happen when someone makes a reply to someone's post and wants the reply published the list:
-1. Replies that further the conversation raised in the original post will be posted. Replies that are totally unrelated or do not further the conversation will be rejected. 
-2. For an original post seeking resources/services, it is okay to make a thread reply that says you are also seeking the same information. 
-3. For an original post seeking resources/services, if you have a business offering that resource, it is okay to promote your own business as a reply. 
-4. If you reply to a post via email, and the email is "to" the original poster and "to" or "cc" the list, the original poster will get the reply right away, even if the reply is not published to the list or is published to the list with some delay. 
 
 # Other lists
 
