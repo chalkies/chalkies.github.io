@@ -160,6 +160,9 @@ Example:
 We often get asked about similar & active lists in other regions. Here are the ones we know about:
 * [Boston Cooperative Network](https://lists.bostoncoop.net/mailman/listinfo/bcn)
 * [DC Lovers of Living Together](https://groups.google.com/g/lovers_of_living_together)
+* [NYCcollectively](https://groups.google.com/g/nyccollectively)
+
+Also see this [directory of spaces](https://docs.google.com/spreadsheets/d/1TMUrH5va9OkStFwxvfR0KFjVHOiSMgmQwCAfHyUYsD4/edit)
 
 # Can I help?
 
