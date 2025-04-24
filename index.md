@@ -150,7 +150,7 @@ A person can have
 
 Posts that only say “not wheelchair accessible” will be rejected. 
 
-We understand this might be new territory to describe.  Please check out this official resource (https://www.access-board.gov/ada/#ada-403) and let us know if you have any questions :)  Many people with disabilities (PWD's) also appreciate a picture of the access route (worth a thousand words, as they say), or a helping hand at the event.
+We understand this might be new territory to describe.  Please check out [this official resource](https://www.access-board.gov/ada/#ada-403) and let us know if you have any questions :)  Many people with disabilities (PWD's) also appreciate a picture of the access route (worth a thousand words, as they say), or a helping hand at the event.
 
 Example:
 "Molly's Cafe has ground-level access with no steps.  However, there is a narrow approc. 20" Hallway and 5 steps up to the patio.  For anyquestions about access, please email me or _____.  We can lend a hand at the event, too.."
