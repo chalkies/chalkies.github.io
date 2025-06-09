@@ -14,7 +14,7 @@ As of July 2023, there are 3734 subscribers
 
 # How do I join?
 
-Go to [our info page](https://lists.riseup.net/www/info/sfchalkboard), click subscribe
+Go to [our info page](https://lists.riseup.net/www/info/sfchalkboard), click subscribe on the left-hand side.
 
 [This page](https://lists.riseup.net/www/help/introduction) explains how mailing lists work
 
@@ -96,6 +96,8 @@ All below info must be included in your actual email, not just a link to an exte
 6. the house must be communal, community-oriented, intentional or cooperative in some way, ie you want the person and not just their money
 7. you must tell us the move-in dates (and move-out, if subletting)
 8. you must tell us what pets you have (for allergies) and what pets you can allow
+9. No hyperlinks - please include the full URL for any links. Hyperlinks will not come through for many users.
+10. Make sure all of the required content is included in the main post body -- not in a linked document.  
 
 If you're a person looking for a house, we hope you find rad people to live with through chalkboard! There are no requirements for housing posts, but we hear that you may find something more easily if you provide some details about what you looking for. What are you looking for in your next home? What locations are you looking for? It can even be helpful to provide the range of rent you are considering, if you are feel comfortable.
 Sample descriptions: east bay only, within 1 mile of BART, ground floor rooms only, Oakland, shared food plan, weekly meetings with housemates, nonviolent communication protocols, QT-only housing, BIPOC-only housing, a bedroom door, a backyard to garden in, under <$1000, $1200 - $1500, as cheap as possible, <$1000 including utilities.
@@ -109,6 +111,8 @@ All event posts must specify:
 * Physical access description of the event venue. Describe for each venue of a multi-event posts. See full details [the accessibility section](#accessibility). Note: "not wheelchair accessible" is not enough information. 
 * If there will be audio or visual accommodations, please share this detail.
 * Money: For events that cost money, see [the money section](#money)
+* No hyperlinks - please include the full URL for any links. Hyperlinks will not come through for many users.
+* RSVPs and Event Details -- SFChalkboard asks that posters share the location and basic attendance details for events, or instructions on how to get them directly from the poster ("email me for the exact address"). If these details are behind a data paywall (lu.ma, partiful, etc.) please indicate in the title "RSVP needed", or include those details in the body of the message. This keeps the community informed about which events are posted to our community "chalkboard" and which are posted elsewhere, and require extra steps to attend. 
 
 # Business Advertising
 
