@@ -166,7 +166,6 @@ We often get asked about similar & active lists in other regions. Here are the o
 * [DC Lovers of Living Together](https://groups.google.com/g/lovers_of_living_together)
 * [NYCcollectively](https://groups.google.com/g/nyccollectively)
 * [Hudson Valley Young Farmers Coalition](https://www.hvyoungfarmers.org/)
-* [Autonomous Spaces Directory](https://docs.google.com/spreadsheets/d/1TMUrH5va9OkStFwxvfR0KFjVHOiSMgmQwCAfHyUYsD4/edit)
 
 Also see this [directory of spaces](https://docs.google.com/spreadsheets/d/1TMUrH5va9OkStFwxvfR0KFjVHOiSMgmQwCAfHyUYsD4/edit)
 
