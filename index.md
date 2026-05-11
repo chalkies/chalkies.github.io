@@ -144,8 +144,8 @@ Giving away free stuff is always cool. Requests for free stuff may get a little 
 
 # Accessibility
 
-Posts for events or housing must describe physical access characteristics.
-Please include how many stairs to access the room and different parts of the house; if there are elevators, bathrooms, doorways, and hallways.  Can they accommodate a standard wheelchair of 30 inches wide? Adequate space to turn a standard wheelchair is 30 inches x 48 inches. This info helps people be informed, to figure out if the space might work for them
+Posts for events or housing must include a section titled "Accessibility" which describes physical access characteristics.
+Please include how many stairs to access the room and different parts of the house/venue, and if there are elevators, ramps, or narrow bathrooms/doorways/hallways.  Can they accommodate a standard wheelchair of 30 inches wide? Adequate space to turn a standard wheelchair is 30 inches x 48 inches. This info helps people be informed, to figure out if the space might work for them
 
 A person can have
 - a permanent & visible mobility need (i.e. wheelchair, walker, crutches)
